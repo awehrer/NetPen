@@ -1,0 +1,105 @@
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bacc" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "mets", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 627333 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bacd" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "viviannx0", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 310278 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bace" }, "type" : "node", "data" : { "statuses_count" : 4661, "name" : "leanne_magnaye", "friends_count" : 71, "favorites_count" : 3344, "followers_count" : 120, "id" : 141463 }, "friends/followers" : 0.5916666666666667 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bacf" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "swingoe", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 185810 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bad0" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "thegreatadina", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 314056 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bad1" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "sugahoneeyicedt", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 713045 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bad2" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "tseringdonga", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 476244 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bad3" }, "type" : "node", "data" : { "statuses_count" : 3853, "name" : "ingridxioo", "friends_count" : 216, "favorites_count" : 1514, "followers_count" : 235, "id" : 431785 }, "friends/followers" : 0.9191489361702128 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bad4" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "judebreh", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 233666 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bad5" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "kerry_mackey", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 431170 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bad6" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "leorivers25", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 332797 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bad7" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "kyaraphernelia_", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 599913 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bad8" }, "type" : "node", "data" : { "statuses_count" : 14721, "name" : "catherinet2117", "friends_count" : 123, "favorites_count" : 2174, "followers_count" : 136, "id" : 658595 }, "friends/followers" : 0.9044117647058824 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bad9" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "aliyashaharul", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 49489 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bada" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "scotthryszko", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 350433 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8badb" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "ashleysayzhey", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 477489 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8badc" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "jc_bonilla3", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 15295 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8badd" }, "type" : "node", "data" : { "statuses_count" : 68918, "name" : "aleafapdunloh", "friends_count" : 262, "favorites_count" : 3113, "followers_count" : 603, "id" : 594717 }, "friends/followers" : 0.4344941956882256 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bade" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "alfredoisreal", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 10098 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8badf" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "denisealejandro", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 806262 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bae0" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "nataliaa_rojas", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 88778 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bae1" }, "type" : "node", "data" : { "statuses_count" : 865, "name" : "seb56thbnll", "friends_count" : 472, "favorites_count" : 74, "followers_count" : 511, "id" : 448695 }, "friends/followers" : 0.923679060665362 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bae2" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "aol", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 692394 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bae3" }, "type" : "node", "data" : { "statuses_count" : 29364, "name" : "r3ht43h", "friends_count" : 302, "favorites_count" : 16249, "followers_count" : 317, "id" : 627959 }, "friends/followers" : 0.9526813880126183 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bae4" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "trey_shooter", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 23467 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bae5" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "giancarlo818", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 595120 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bae6" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "ishhmee", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 66582 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bae7" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "jesssicafuentes",  "id" : 2761 } }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bae8" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "showtime_0", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 28955 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bae9" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "dananicholson_", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 314075 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8baea" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "giselaxcb", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 358474 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8baeb" }, "type" : "node", "data" : { "statuses_count" : 414, "name" : "johnrapone", "friends_count" : 182, "favorites_count" : 247, "followers_count" : 153, "id" : 601452 }, "friends/followers" : 1.189542483660131 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8baec" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "tenzint_", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 335455 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8baed" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "miguelayare", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 741593 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8baee" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "rtchvz", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 247979 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8baef" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "deljaninemina", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 333601 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8baf0" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "sarabellexo_", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 676878 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8baf1" }, "data" : { "source" : 141463, "target" : 2761 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8baf2" }, "data" : { "source" : 10098, "target" : 2761 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8baf3" }, "data" : { "source" : 141463, "target" : 314056 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8baf4" }, "data" : { "source" : 10098, "target" : 448695 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8baf5" }, "data" : { "source" : 477489, "target" : 141463 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8baf6" }, "data" : { "source" : 10098, "target" : 627959 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8baf7" }, "data" : { "source" : 594717, "target" : 10098 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8baf8" }, "data" : { "source" : 10098, "target" : 806262 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8baf9" }, "data" : { "source" : 10098, "target" : 185810 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bafa" }, "data" : { "source" : 10098, "target" : 23467 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bafb" }, "data" : { "source" : 141463, "target" : 314056 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bafc" }, "data" : { "source" : 10098, "target" : 741593 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bafd" }, "data" : { "source" : 141463, "target" : 28955 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bafe" }, "data" : { "source" : 658595, "target" : 141463 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8baff" }, "data" : { "source" : 141463, "target" : 658595 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb00" }, "data" : { "source" : 658595, "target" : 141463 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb01" }, "data" : { "source" : 10098, "target" : 185810 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb02" }, "data" : { "source" : 10098, "target" : 627959 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb03" }, "data" : { "source" : 594717, "target" : 10098 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb04" }, "data" : { "source" : 10098, "target" : 806262 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb05" }, "data" : { "source" : 141463, "target" : 314075 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb06" }, "data" : { "source" : 10098, "target" : 594717 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb07" }, "data" : { "source" : 350433, "target" : 10098 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb08" }, "data" : { "source" : 10098, "target" : 358474 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb09" }, "data" : { "source" : 141463, "target" : 333601 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb0a" }, "data" : { "source" : 141463, "target" : 332797 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb0b" }, "data" : { "source" : 10098, "target" : 88778 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb0c" }, "data" : { "source" : 141463, "target" : 88778 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb0d" }, "data" : { "source" : 10098, "target" : 594717 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb0e" }, "data" : { "source" : 10098, "target" : 806262 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb0f" }, "data" : { "source" : 141463, "target" : 332797 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb10" }, "data" : { "source" : 10098, "target" : 247979 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb11" }, "data" : { "source" : 10098, "target" : 15295 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb12" }, "data" : { "source" : 10098, "target" : 310278 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb13" }, "data" : { "source" : 10098, "target" : 49489 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb14" }, "data" : { "source" : 10098, "target" : 335455 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb15" }, "data" : { "source" : 10098, "target" : 66582 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb16" }, "data" : { "source" : 10098, "target" : 741593 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb17" }, "data" : { "source" : 658595, "target" : 141463 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb18" }, "data" : { "source" : 141463, "target" : 314075 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb19" }, "data" : { "source" : 10098, "target" : 601452 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb1a" }, "data" : { "source" : 88778, "target" : 141463 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb1b" }, "data" : { "source" : 141463, "target" : 2761 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb1c" }, "data" : { "source" : 141463, "target" : 233666 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb1d" }, "data" : { "source" : 10098, "target" : 247979 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb1e" }, "data" : { "source" : 141463, "target" : 658595 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb1f" }, "data" : { "source" : 10098, "target" : 627333 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb20" }, "data" : { "source" : 141463, "target" : 431170 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb21" }, "data" : { "source" : 10098, "target" : 476244 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb22" }, "data" : { "source" : 10098, "target" : 627959 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb23" }, "data" : { "source" : 10098, "target" : 431785 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb24" }, "data" : { "source" : 10098, "target" : 66582 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb25" }, "data" : { "source" : 10098, "target" : 595120 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb26" }, "data" : { "source" : 141463, "target" : 333601 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb27" }, "data" : { "source" : 141463, "target" : 713045 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb28" }, "data" : { "source" : 10098, "target" : 2761 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb29" }, "data" : { "source" : 10098, "target" : 627959 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb2a" }, "data" : { "source" : 10098, "target" : 741593 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb2b" }, "data" : { "source" : 10098, "target" : 658595 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb2c" }, "data" : { "source" : 141463, "target" : 599913 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb2d" }, "data" : { "source" : 10098, "target" : 806262 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb2e" }, "data" : { "source" : 10098, "target" : 627959 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb2f" }, "data" : { "source" : 10098, "target" : 627959 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb30" }, "data" : { "source" : 141463, "target" : 692394 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb31" }, "data" : { "source" : 10098, "target" : 676878 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb32" }, "data" : { "source" : 10098, "target" : 476244 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb33" }, "data" : { "source" : 658595, "target" : 10098 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0f70ec9e0d2b05c8bb34" }, "data" : { "source" : 10098, "target" : 601452 }, "type" : "link" }

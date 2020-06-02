@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+<?import netpen.utility.*?>
+<?import javafx.scene.image.*?>
+<?import netpen.utility.ink.*?>
+<?import netpen.*?>
+
+<GridPane xmlns:fx="http://javafx.com/fxml/1" fx:id="gridMain" fx:controller="netpen.MainWindowController" style="-fx-background-color: white;">
+    <fx:define>
+        <RemScaler fx:id="m" />
+    </fx:define>
+    
+    <columnConstraints>
+        <ColumnConstraints minWidth="${25 * m.rem}" prefWidth="${83.33333 * m.rem}" hgrow="ALWAYS" />
+    </columnConstraints>
+    
+    <rowConstraints>
+        <RowConstraints minHeight="${2.0833333 * m.rem}" />
+        <RowConstraints minHeight="${3 * m.rem}" />
+        <RowConstraints prefHeight="${48 * m.rem}" vgrow="ALWAYS" />
+        <RowConstraints minHeight="${3 * m.rem}" />
+    </rowConstraints>
+    
+    <children>
+        
+        <MenuBar fx:id="topMenu" GridPane.fillWidth="true" GridPane.fillHeight="true" GridPane.columnIndex="0" GridPane.rowIndex="0">
+            <Menu text="File">
+                <MenuItem text="Open" onAction="#handleOpenAction">
+                    <graphic>
+                        <ImageView fitWidth="${1.66667 * m.rem}" preserveRatio="true" >
+                            <Image url="file:resources/images/open_icon.png"/>
+                        </ImageView>
+                    </graphic>
+                </MenuItem>
+                <SeparatorMenuItem />
+                <MenuItem text="Options" onAction="#handleOptionsAction">
+                    <graphic>
+                        <ImageView fitWidth="${1.66667 * m.rem}" preserveRatio="true" >
+                            <Image url="file:resources/images/change_info_icon.png"/>
+                        </ImageView>
+                    </graphic>
+                </MenuItem>
+                <SeparatorMenuItem />
+                <MenuItem text="Exit" onAction="#handleExitAction">
+                    <graphic>
+                        <ImageView fitWidth="${1.66667 * m.rem}" preserveRatio="true" >
+                            <Image url="file:resources/images/exit_icon.png"/>
+                        </ImageView>
+                    </graphic>
+                </MenuItem>
+            </Menu>
+            <Menu text="Help">
+                <!-- todo -->
+            </Menu>
+        </MenuBar>
+        
+        <HBox alignment="CENTER_LEFT" GridPane.fillHeight="true" GridPane.fillWidth="true" GridPane.columnIndex="0" GridPane.rowIndex="1" style="-fx-background-color: whitesmoke;">
+            <!-- css insets: top, right, bottom, and left edges of the region, in that order -->
+            <Label fx:id="fileNameLabel" text="Filename" style="-fx-border-width: 0px; -fx-border-style: solid; -fx-border-insets: 0.0em 0.0em 0.0em 0.5em;" />
+            <Region HBox.hgrow="ALWAYS" /> 
+            <Region minWidth="15" prefWidth="15" maxWidth="15" />
+        </HBox>
+        
+        <SplitPane fx:id="canvasSplitPane" GridPane.rowIndex="2" GridPane.columnIndex="0" orientation="HORIZONTAL" dividerPositions="0.7">
+            <items>
+                
+                <ScrollPane fx:id="canvasViewport" vbarPolicy="NEVER" hbarPolicy="NEVER" pannable="false" focusTraversable="true">
+                    <content>
+                        <NetPenCanvas fx:id="netPenCanvas" minWidth="1000" minHeight="1000" onStylusMoved="#handleStylusMoved" onStylusDown="#handleStylusDown" />
+                    </content>
+                </ScrollPane>
+                
+                <GridPane fx:id="sidebarGrid" onSwipeLeft="#handleSidebarSwipe" onSwipeRight="#handleSidebarSwipe">
+                    
+                    <columnConstraints>
+                        <ColumnConstraints hgrow="ALWAYS" />
+                    </columnConstraints>
+                    
+                    <rowConstraints>
+                        <RowConstraints />
+                        <RowConstraints /> 
+                    </rowConstraints>
+                    
+                    <children>
+                        <TabPane GridPane.columnIndex="0" GridPane.rowIndex="0" GridPane.fillHeight="true">
+                            <Tab text="Control" closable="false">
+                                <content>
+                                    <VBox style="-fx-border-width: 1; -fx-border-color: white black black black; -fx-border-style: solid;">
+                                        
+                                        <TitledBorderPane title="Nodes" style="-fx-border-width: 0px; -fx-border-style: solid; -fx-border-insets: 0.25em 0.666666667em 0.25em 0.66666667em;">
+                                            <content>
+                                                <VBox style="-fx-spacing: 4;">
+                                                    <CheckBox text="Show links of selected nodes" selected="false" disable="true" />
+                                                    <CheckBox text="Show all links" selected="false" disable="true" />
+                                                    <HBox style="-fx-spacing: 8;">
+                                                        <Label text="Circle Radius" minWidth="${5.9 * m.rem}" prefWidth="${5.9 * m.rem}" />
+                                                        <Slider fx:id="nodeSizeSlider" onValueChange="#handleNodeSizeChange" value="5.0" min="1.0" max="10.0" orientation="HORIZONTAL" />
+                                                        <TextField fx:id="nodeSizeField" editable="false" text="5.0" alignment="CENTER" minWidth="${(38.0 / 12.0) * m.rem}" prefWidth="${(38.0 / 12.0) * m.rem}" maxWidth="${(38.0 / 12.0) * m.rem}" />
+                                                    </HBox>
+                                                </VBox>
+                                            </content>
+                                        </TitledBorderPane>
+                                        
+                                        <TitledBorderPane title="Ink Settings" style="-fx-border-width: 0px; -fx-border-style: solid; -fx-border-insets: 0.25em 0.666666667em 0.25em 0.66666667em;">
+                                            <content>
+                                                <VBox alignment="CENTER" >
+                                                    <Button text="Clear Ink" onAction="#handleClearInkAction" />
+                                                    <Button disable="true" text="Train/Load Symbols" /> 
+                                                    <Button text="Process Ink" onAction="#handleProcessInkAction" />
+                                                    <Button text="Clear selection" onAction="#handleClearSelectionAction" />
+                                                </VBox>
+                                            </content>
+                                        </TitledBorderPane>
+                                        <TitledBorderPane title="Graph Size" GridPane.rowIndex="1" style="-fx-border-width: 0px; -fx-border-style: solid; -fx-border-insets: 0.416666667em 0.666666667em 0.25em 0.66666667em;">
+                                            <content>
+                                                <VBox alignment="CENTER">
+                                                    <HBox alignment="CENTER" style="-fx-spacing: 4; -fx-border-width: 0px; -fx-border-style: solid; -fx-border-insets: 0.1666667em 0 0.3333333em 0;">
+                                                        <Button text="Width -" onAction="#handleGraphWidthDecreaseAction" style="-fx-font-size: 0.833333em;" />
+                                                        <Button text="Width +" onAction="#handleGraphWidthIncreaseAction" style="-fx-font-size: 0.833333em;" />
+                                                        <Button text="Height -" onAction="#handleGraphHeightDecreaseAction" style="-fx-font-size: 0.833333em;" />
+                                                        <Button text="Height +" onAction="#handleGraphHeightIncreaseAction" style="-fx-font-size: 0.833333em;" />
+                                                    </HBox>
+                                                    <HBox alignment="CENTER" style="-fx-spacing: 4; -fx-border-width: 0px; -fx-border-style: solid; -fx-border-insets: 0.1666667em 0 0.8333333em 0;">
+                                                        <Button text="WReset" onAction="#handleGraphWidthResetAction" style="-fx-font-size: 0.833333em;" />
+                                                        <Button text="HReset" onAction="#handleGraphHeightResetAction" style="-fx-font-size: 0.833333em;" />
+                                                        <Button text="Reset All" onAction="#handleGraphDimensionsResetAction" style="-fx-font-size: 0.833333em;" />
+                                                        <Button disable="true" text="Fit to View" style="-fx-font-size: 0.833333em;" />
+                                                    </HBox>
+                                                    <ScrollPane vbarPolicy="NEVER" hbarPolicy="NEVER" pannable="false" maxWidth="${16.666667 * m.rem}" prefWidth="${16.666667 * m.rem}" minHeight="${8.333333 * m.rem}" maxHeight="${8.333333 * m.rem}" prefHeight="${8.333333 * m.rem}" style="-fx-border-style: solid; -fx-border-color: black; -fx-border-width: 1px;">
+                                                        <content>
+                                                            <GraphResizeInkCanvas fx:id="graphResizeCanvas" minWidth="${16.666667 * m.rem}" minHeight="${8.333333 * m.rem}" style="-fx-background-color: rgb(248, 248, 255);" />
+                                                        </content>
+                                                    </ScrollPane>
+                                                </VBox>
+                                            </content>
+                                        </TitledBorderPane>
+                                    </VBox>
+                                </content>
+                            </Tab>
+                            <Tab text="Minigraph" closable="false">
+                                <GraphInkCanvasModelWIM fx:id="minigraph" prefWidth="${280 / 12.0 * m.rem}" prefHeight="${280 / 12.0 * m.rem}" minWidth="${280 / 12.0 * m.rem}" minHeight="${280 / 12.0 * m.rem}" style="-fx-border-width: 1; -fx-border-color: white black black black; -fx-border-style: solid;" />
+                            </Tab>
+                            <Tab text="Attributes" closable="false">
+                                <VBox style="-fx-border-width: 1; -fx-border-color: white black black black; -fx-border-style: solid;">
+                                    <GraphAttributeTable fx:id="attribTable" />
+                                    <AttributeAveragesTable fx:id="attributeAveragesTable" />
+                                </VBox>
+                            </Tab>
+                            <Tab text="Sort" closable="false">
+                                <VBox style="-fx-spacing: 8; -fx-border-width: 1; -fx-border-color: white black black black; -fx-border-style: solid;">
+                                    <Label text="Sort nodes by..." style="-fx-border-width: 0px; -fx-border-style: solid; -fx-border-insets: 0.5em 0.0em 0.0em 0.3333em;"/>
+                                    <SortByList fx:id="sortByList" />
+                                </VBox>
+                            </Tab>
+                            <Tab text="Color" closable="false">
+                                <ScrollPane fitToWidth="true" style="-fx-border-width: 1; -fx-border-color: white black black black; -fx-border-style: solid;"> 
+                                    <GridPane vgap="10" hgap="10">
+                                        <Label GridPane.rowIndex="1" GridPane.columnIndex="0" GridPane.columnSpan="2"  text="Attribute to Color" />
+                                        <ListView GridPane.rowIndex="2" GridPane.columnIndex="0" GridPane.columnSpan="2" fx:id="choiceColorAttrib" prefHeight="300" />
+
+                                        <Label GridPane.rowIndex="5" GridPane.columnIndex="0" text="Low Values Color" />
+                                        <ColorPicker GridPane.rowIndex="5" GridPane.columnIndex="1" fx:id="choiceColorAttribLow"/>
+
+                                        <!--
+                                        <Label GridPane.rowIndex="6" GridPane.columnIndex="0" text="Low Value" />
+                                        <TextField GridPane.rowIndex="6" GridPane.columnIndex="1" fx:id="textColorAttribLowValue" />
+
+                                        <Label GridPane.rowIndex="7" GridPane.columnIndex="0" text="Low Value (Auto-select)" />
+                                        <CheckBox GridPane.rowIndex="7" GridPane.columnIndex="1" text="" fx:id="checkColorAttribLowAuto" />
+                                        -->
+
+                                        <Label GridPane.rowIndex="6" GridPane.columnIndex="0" text="High Values Color" />
+                                        <ColorPicker GridPane.rowIndex="6" GridPane.columnIndex="1" fx:id="choiceColorAttribHigh" />
+
+                                        <!--
+                                        <Label GridPane.rowIndex="11" GridPane.columnIndex="0" text="High Value" />
+                                        <TextField GridPane.rowIndex="11" GridPane.columnIndex="1" fx:id="textColorAttribHighValue" />
+
+                                        <Label GridPane.rowIndex="12" GridPane.columnIndex="0" text="High Value (Auto-select)" />
+                                        <CheckBox GridPane.rowIndex="12" GridPane.columnIndex="1" text="" fx:id="checkColorAttribHighAuto" />
+                                        -->
+
+                                        <Label GridPane.rowIndex="7" GridPane.columnIndex="0" text="Vert w/o Attr Color" />
+                                        <ColorPicker GridPane.rowIndex="7" GridPane.columnIndex="1" fx:id="choiceColorAttribNoAttr" />
+                                    </GridPane>
+                                </ScrollPane>
+                                
+                            </Tab>
+                        </TabPane>
+                    </children>
+                </GridPane>
+                
+            </items>
+        </SplitPane>
+        
+        <HBox alignment="CENTER_LEFT" GridPane.fillHeight="true" GridPane.fillWidth="true" GridPane.columnIndex="0" GridPane.rowIndex="3" style="-fx-background-color: whitesmoke;">
+            <Label text="Recognition Status:" style="-fx-border-width: 0px; -fx-border-style: solid; -fx-border-insets: 0.1666667em 0.1666667em 0.1666667em 1.25em;" />
+            <Rectangle fx:id="statusRect" width="${1.666667 * m.rem}" height="${1.666667 * m.rem}" stroke="black" fill="white" />
+            <!-- css insets: top, right, bottom, and left edges of the region, in that order -->
+            <Label fx:id="zoomLabel" text="Zoom Level: 100.0%" style="-fx-border-width: 0px; -fx-border-style: solid; -fx-border-insets: 0.1666667em 2.5em 0.1666667em 2.666667em;" />
+            <Label fx:id="translationLabel" text="Translation: (0.0, 0.0)" style="-fx-border-width: 0px; -fx-border-style: solid; -fx-border-insets: 0.1666667em 2.5em 0.1666667em 0.1666667em;" />
+            <Label fx:id="modeLabel" disable="true" text="Mode: Gesture" style="-fx-padding: 0.25em 0.333333em 0.25em 0.333333em; -fx-border-style: solid; -fx-border-color: gray; -fx-border-width: 1; -fx-border-insets: 0.1666667em 0 0.1666667em 0;" />
+            <Button fx:id="exitModeButton" text=" X " visible="false" style="-fx-border-style: solid; -fx-border-width: 0px; -fx-border-insets: 0.1666667em 0 0.1666667em 0;" />
+        </HBox>
+        
+    </children>
+</GridPane>

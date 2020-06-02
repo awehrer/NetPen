@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<fx:root type="javafx.scene.layout.StackPane" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <StackPane fx:id="innerPane" style="-fx-border-width: 1px; -fx-border-radius: 3px; -fx-border-color: rgb(213, 223, 229); -fx-border-style: solid; -fx-border-insets: 0.833333em 0 0 0;">
+            <Label fx:id="titleLabel" style="-fx-background-color: white; -fx-translate-y: -0.833333em; -fx-translate-x: 0.4166667em;">
+                <StackPane.alignment>TOP_LEFT</StackPane.alignment>
+            </Label>
+            <StackPane fx:id="contentPane" style="-fx-padding: 0.833333em 0.666667em 0.666667em 0.666667em"/>
+        </StackPane>
+    </children>
+</fx:root>

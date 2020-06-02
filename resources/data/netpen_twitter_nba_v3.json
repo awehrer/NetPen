@@ -1,0 +1,361 @@
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aed5" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "maltin_liqka", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 488780 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aed6" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "tchorzkye", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 49339 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aed7" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "andrewcella", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 67765 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aed8" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "trendinaliaus", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 158820 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aed9" }, "type" : "node", "data" : { "statuses_count" : 2957, "name" : "pinklavalampbk", "friends_count" : 125, "favorites_count" : 8, "followers_count" : 67, "id" : 299595 }, "friends/followers" : 1.865671641791045 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aeda" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "_la_kid", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 556911 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aedb" }, "type" : "node", "data" : { "statuses_count" : 110, "name" : "bnidowu", "friends_count" : 155, "favorites_count" : 39, "followers_count" : 137, "id" : 471627 }, "friends/followers" : 1.131386861313869 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aedc" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "imartincea", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 587766 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aedd" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "de_kamz", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 141063 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aede" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "scarletcord", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 685086 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aedf" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "humble_scarlet4", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 653160 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aee0" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "thegitch", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 696939 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aee1" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "fredov03", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 285463 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aee2" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "t0p_rud3b0y", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 7243 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aee3" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "prinzesscarter", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 451600 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aee4" }, "type" : "node", "data" : { "statuses_count" : 160, "name" : "maxrocker123", "friends_count" : 111, "favorites_count" : 76, "followers_count" : 211, "id" : 24392 }, "friends/followers" : 0.5260663507109005 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aee5" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "t3hk0r34n", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 280371 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aee6" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "jeabascal", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 345642 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aee7" }, "type" : "node", "data" : { "statuses_count" : 11250, "name" : "djg2193", "friends_count" : 1410, "favorites_count" : 859, "followers_count" : 297, "id" : 104789 }, "friends/followers" : 4.747474747474747 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aee8" }, "type" : "node", "data" : { "statuses_count" : 3925, "name" : "evansegerman", "friends_count" : 767, "favorites_count" : 407, "followers_count" : 314, "id" : 430058 }, "friends/followers" : 2.442675159235669 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aee9" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "tarikistooreal", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 73024 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aeea" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "callmepowers", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 641948 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aeeb" }, "type" : "node", "data" : { "statuses_count" : 2988, "name" : "therat247", "friends_count" : 793, "favorites_count" : 25, "followers_count" : 148, "id" : 649290 }, "friends/followers" : 5.358108108108108 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aeec" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "jasonschear", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 656408 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aeed" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "eddywb80", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 41586 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aeee" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "gilbertura", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 251117 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aeef" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "dev_irving", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 208314 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aef0" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "mannyjr99", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 71061 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aef1" }, "type" : "node", "data" : { "statuses_count" : 21600, "name" : "mymello23", "friends_count" : 442, "favorites_count" : 668, "followers_count" : 331, "id" : 255777 }, "friends/followers" : 1.335347432024169 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aef2" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "jerrybean92", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 572048 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aef3" }, "type" : "node", "data" : { "statuses_count" : 3192, "name" : "nofeezy", "friends_count" : 99, "favorites_count" : 466, "followers_count" : 64, "id" : 718482 }, "friends/followers" : 1.546875 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aef4" }, "type" : "node", "data" : { "statuses_count" : 6520, "name" : "blackseaweedboi", "friends_count" : 186, "favorites_count" : 2583, "followers_count" : 97, "id" : 56161 }, "friends/followers" : 1.917525773195876 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aef5" }, "type" : "node", "data" : { "statuses_count" : 424, "name" : "justjokim", "friends_count" : 162, "favorites_count" : 18, "followers_count" : 29, "id" : 310108 }, "friends/followers" : 5.586206896551724 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aef6" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "mmarie28", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 248428 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aef7" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "straggeologist", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 758783 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aef8" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "jus_tania", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 195811 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aef9" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "sofimussa", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 198003 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aefa" }, "type" : "node", "data" : { "statuses_count" : 133, "name" : "marcbennam", "friends_count" : 73, "favorites_count" : 221, "followers_count" : 11, "id" : 234145 }, "friends/followers" : 6.636363636363637 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aefb" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "willfnchen", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 282760 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aefc" }, "type" : "node", "data" : { "statuses_count" : 730, "name" : "asia8368", "friends_count" : 531, "favorites_count" : 616, "followers_count" : 164, "id" : 496669 }, "friends/followers" : 3.23780487804878 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aefd" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "osvaldo45123841", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 52142 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aefe" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "bobobomo", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 578110 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8aeff" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "yosoypapigrande", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 588954 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8af00" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "kennaokoye", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 540023 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8af01" }, "type" : "node", "data" : { "statuses_count" : 7214, "name" : "carlostejada28", "friends_count" : 856, "favorites_count" : 8, "followers_count" : 235, "id" : 77846 }, "friends/followers" : 3.642553191489362 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8af02" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "jdbasketball", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 369026 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8af03" }, "type" : "node", "data" : { "statuses_count" : 683, "name" : "brandbaylis", "friends_count" : 64, "favorites_count" : 48, "followers_count" : 117, "id" : 484274 }, "friends/followers" : 0.5470085470085471 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8af04" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "jonbraunstein", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 114354 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8af05" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "sellersanlyznba", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 699820 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8af06" }, "type" : "node", "data" : { "statuses_count" : 2731, "name" : "nibletodell", "friends_count" : 669, "favorites_count" : 540, "followers_count" : 211, "id" : 603473 }, "friends/followers" : 3.170616113744076 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8af07" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "therealmista617", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 432380 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8af08" }, "type" : "node", "data" : { "statuses_count" : 117, "name" : "robertlevitan", "friends_count" : 80, "favorites_count" : 2, "followers_count" : 70, "id" : 740356 }, "friends/followers" : 1.142857142857143 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8af09" }, "type" : "node", "data" : { "statuses_count" : 82158, "name" : "doddynyc", "friends_count" : 561, "favorites_count" : 579, "followers_count" : 3933, "id" : 40787 }, "friends/followers" : 0.1426392067124333 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8af0a" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "dbearak", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 101742 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8af0b" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "msansone2", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 559105 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8af0c" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "scottgorenstein", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 225745 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8af0d" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "alwaysclosingit", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 408588 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8af0e" }, "type" : "node", "data" : { "statuses_count" : 115, "name" : "dmondesir1", "friends_count" : 156, "favorites_count" : 97, "followers_count" : 52, "id" : 40599 }, "friends/followers" : 3 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8af0f" }, "type" : "node", "data" : { "statuses_count" : 18918, "name" : "undefinedlovex3", "friends_count" : 485, "favorites_count" : 79, "followers_count" : 554, "id" : 69186 }, "friends/followers" : 0.8754512635379061 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8af10" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "nba", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 805284 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8af11" }, "type" : "node", "data" : { "statuses_count" : 2263, "name" : "theballisorange", "friends_count" : 701, "favorites_count" : 938, "followers_count" : 303, "id" : 791058 }, "friends/followers" : 2.313531353135314 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8af12" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "cpayneshow", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 765133 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8af13" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "nysportzguy", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 373010 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8af14" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "caughtinmyweb88", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 59944 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce2ec9e0d2b05c8af15" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "coreymanicone", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 345484 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af16" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "refhanson123", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 502607 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af17" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "brian_lamar", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 80943 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af18" }, "type" : "node", "data" : { "statuses_count" : 31428, "name" : "oliverchampagne", "friends_count" : 946, "favorites_count" : 3868, "followers_count" : 583, "id" : 715227 }, "friends/followers" : 1.622641509433962 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af19" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "vigilantelife", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 296930 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af1a" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "deadpool47", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 551853 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af1b" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "ibrianreyes", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 794159 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af1c" }, "type" : "node", "data" : { "statuses_count" : 43764, "name" : "dashdavinci", "friends_count" : 72, "favorites_count" : 244, "followers_count" : 1814, "id" : 522225 }, "friends/followers" : 0.03969128996692393 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af1d" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "coquinyo", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 524875 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af1e" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "johnpmclaughlin", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 792448 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af1f" }, "type" : "node", "data" : { "statuses_count" : 1217, "name" : "dougbailey728", "friends_count" : 457, "favorites_count" : 21, "followers_count" : 205, "id" : 17311 }, "friends/followers" : 2.229268292682927 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af20" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "mrruiz81", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 284932 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af21" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "khmoyy", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 343761 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af22" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "nay_hawk", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 793278 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af23" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "bwl247_", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 353606 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af24" }, "type" : "node", "data" : { "statuses_count" : 11062, "name" : "stevenburg", "friends_count" : 151, "favorites_count" : 106, "followers_count" : 1259, "id" : 733576 }, "friends/followers" : 0.1199364575059571 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af25" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "lisabonner", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 690170 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af26" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "mspercussionist", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 160301 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af27" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "mrbenefits1", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 395172 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af28" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "kmichaelr", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 460007 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af29" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "timerrickson", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 704689 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af2a" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "joeyboots", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 111914 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af2b" }, "type" : "node", "data" : { "statuses_count" : 1397, "name" : "bryce_bachelder", "friends_count" : 333, "favorites_count" : 43, "followers_count" : 226, "id" : 676634 }, "friends/followers" : 1.473451327433628 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af2c" }, "type" : "node", "data" : { "statuses_count" : 45150, "name" : "hoopscritic", "friends_count" : 641, "favorites_count" : 49, "followers_count" : 6816, "id" : 327208 }, "friends/followers" : 0.09404342723004695 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af2d" }, "type" : "node", "data" : { "statuses_count" : 20465, "name" : "giantrangermet", "friends_count" : 899, "favorites_count" : 739, "followers_count" : 292, "id" : 35819 }, "friends/followers" : 3.078767123287671 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af2e" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "k3v7n", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 315258 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af2f" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "robbiecampsz", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 179010 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af30" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "julissapariss", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 707698 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af31" }, "type" : "node", "data" : { "statuses_count" : 8683, "name" : "elwoodrobinson", "friends_count" : 1004, "favorites_count" : 298, "followers_count" : 1161, "id" : 646775 }, "friends/followers" : 0.8647717484926787 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af32" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "robbie11418", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 296375 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af33" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "drewdog12380", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 407210 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af34" }, "type" : "node", "data" : { "statuses_count" : 1823, "name" : "tim_dumais16", "friends_count" : 108, "favorites_count" : 1159, "followers_count" : 149, "id" : 410688 }, "friends/followers" : 0.7248322147651006 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af35" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "joey_drinks", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 623437 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af36" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "kgot_thejuice", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 174081 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af37" }, "type" : "node", "data" : { "statuses_count" : 38, "name" : "hall1031", "friends_count" : 58, "favorites_count" : 3, "followers_count" : 3, "id" : 340846 }, "friends/followers" : 19.33333333333333 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af38" }, "type" : "node", "data" : { "statuses_count" : 22426, "name" : "gamefacelee", "friends_count" : 1025, "favorites_count" : 471, "followers_count" : 492, "id" : 181100 }, "friends/followers" : 2.083333333333333 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af39" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "tomharnisch", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 90016 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af3a" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "jeremysf", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 177561 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af3b" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "michot_g", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 727482 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af3c" }, "type" : "node", "data" : { "statuses_count" : 1312, "name" : "ps450nyc", "friends_count" : 10, "favorites_count" : 133, "followers_count" : 244, "id" : 131865 }, "friends/followers" : 0.04098360655737705 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af3d" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "cleeminati", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 38172 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af3e" }, "type" : "node", "data" : { "statuses_count" : 3559, "name" : "edkishinevsky", "friends_count" : 1123, "favorites_count" : 64, "followers_count" : 331, "id" : 283231 }, "friends/followers" : 3.392749244712991 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af3f" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "david1jm", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 74689 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af40" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "silvester0828", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 81342 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af41" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "mr__mazing", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 509502 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af42" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "jboogz013", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 554428 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af43" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "cautious_7", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 371062 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af44" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "vicsuede30", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 256330 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af45" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "tyonjreid", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 206647 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af46" }, "type" : "node", "data" : { "statuses_count" : 16946, "name" : "lindsey_andreww", "friends_count" : 260, "favorites_count" : 1520, "followers_count" : 423, "id" : 195316 }, "friends/followers" : 0.6146572104018913 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af47" }, "type" : "node", "data" : { "statuses_count" : 2669, "name" : "kings360", "friends_count" : 65, "favorites_count" : 5, "followers_count" : 48, "id" : 282053 }, "friends/followers" : 1.354166666666667 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af48" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "alexrosado188", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 116561 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af49" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "cricks1025", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 496678 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af4a" }, "type" : "node", "data" : { "statuses_count" : 87, "name" : "dpboiardi", "friends_count" : 99, "favorites_count" : 4, "followers_count" : 9, "id" : 731557 }, "friends/followers" : 11 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af4b" }, "type" : "node", "data" : { "statuses_count" : 5214, "name" : "ninamarieox", "friends_count" : 179, "favorites_count" : 679, "followers_count" : 58, "id" : 203133 }, "friends/followers" : 3.086206896551724 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af4c" }, "type" : "node", "data" : { "statuses_count" : 9200, "name" : "_chrisrivas19", "friends_count" : 216, "favorites_count" : 1734, "followers_count" : 202, "id" : 270301 }, "friends/followers" : 1.069306930693069 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af4d" }, "type" : "node", "data" : { "statuses_count" : 1375, "name" : "taps123", "friends_count" : 169, "favorites_count" : 519, "followers_count" : 27, "id" : 521689 }, "friends/followers" : 6.25925925925926 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af4e" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "jae_officialart", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 486772 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af4f" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "twin2_dollaz", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 537395 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af50" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "wazdope", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 70776 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af51" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "bigdoxx", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 142302 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af52" }, "type" : "node", "data" : { "statuses_count" : 11971, "name" : "abresler", "friends_count" : 1974, "favorites_count" : 3011, "followers_count" : 892, "id" : 680114 }, "friends/followers" : 2.213004484304933 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af53" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "deanpeer", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 154811 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af54" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "flama507", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 386060 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af55" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "jahmezzdagawd", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 634233 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af56" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "jp_books", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 742946 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af57" }, "type" : "node", "data" : { "statuses_count" : 2986, "name" : "marmarango", "friends_count" : 341, "favorites_count" : 682, "followers_count" : 107, "id" : 76427 }, "friends/followers" : 3.186915887850467 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af58" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "itsshowtime427", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 297970 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af59" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "raihan5494", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 67111 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af5a" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "bestunna", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 759515 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af5b" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "jhoyte_", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 358753 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af5c" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "illbrooklynnino", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 802289 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af5d" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "chingbk281", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 685180 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af5e" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "pnotaro", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 32964 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af5f" }, "type" : "node", "data" : { "statuses_count" : 900, "name" : "lamiercat", "friends_count" : 81, "favorites_count" : 510, "followers_count" : 38, "id" : 390564 }, "friends/followers" : 2.131578947368421 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af60" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "revislaam", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 129059 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af61" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "reetlawhon", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 144088 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af62" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "iamlilnat", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 338576 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af63" }, "type" : "node", "data" : { "statuses_count" : 4577, "name" : "bushwickkeith", "friends_count" : 198, "favorites_count" : 92, "followers_count" : 75, "id" : 401052 }, "friends/followers" : 2.64 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af64" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "tenchyrod", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 354 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af65" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "robbyd96", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 359 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af66" }, "type" : "node", "data" : { "statuses_count" : 6049, "name" : "clancy3434", "friends_count" : 819, "favorites_count" : 59, "followers_count" : 177, "id" : 500734 }, "friends/followers" : 4.627118644067797 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af67" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "nutellaenvogue", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 422416 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af68" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "kid_kadar", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 600993 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af69" }, "type" : "node", "data" : { "statuses_count" : 712, "name" : "humbertorosero", "friends_count" : 65, "favorites_count" : 0, "followers_count" : 20, "id" : 417669 }, "friends/followers" : 3.25 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af6a" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "d_prados", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 264931 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af6b" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "zakattack930", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 263973 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af6c" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "simplyjay7191", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 726567 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af6d" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "huronbluechief", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 130385 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af6e" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "alfonsjoson", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 22412 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af6f" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "supabeatzbx", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 67533 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af70" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "audemarshampton", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 17981 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af71" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "jonnybgood_", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 80449 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af72" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "gqisreal", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 212364 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af73" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "godrllgby", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 298788 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af74" }, "type" : "node", "data" : { "statuses_count" : 44348, "name" : "ronflatter", "friends_count" : 660, "favorites_count" : 577, "followers_count" : 960, "id" : 568664 }, "friends/followers" : 0.6875 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af75" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "gaberock", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 494697 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af76" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "thomaskruck828", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 308393 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af77" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "king_lenny2", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 447841 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af78" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "itsjtan", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 26866 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af79" }, "type" : "node", "data" : { "statuses_count" : 1972, "name" : "purpleallday", "friends_count" : 235, "favorites_count" : 1882, "followers_count" : 207, "id" : 595720 }, "friends/followers" : 1.135265700483092 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af7a" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "rage_punch", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 127160 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af7b" }, "type" : "node", "data" : { "statuses_count" : 19775, "name" : "rav617", "friends_count" : 1433, "favorites_count" : 4421, "followers_count" : 445, "id" : 94919 }, "friends/followers" : 3.220224719101124 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af7c" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "justdoesit", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 158633 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af7d" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "bdaddy_4", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 361789 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af7e" }, "type" : "node", "data" : { "statuses_count" : 2015, "name" : "eddief24", "friends_count" : 215, "favorites_count" : 6, "followers_count" : 166, "id" : 528487 }, "friends/followers" : 1.295180722891566 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af7f" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "jeffsandersnyc", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 326510 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af80" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "foundtrippy", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 195195 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af81" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "mzubs20", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 650251 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af82" }, "type" : "node", "data" : { "statuses_count" : 1, "name" : "joelsancz", "friends_count" : 1, "favorites_count" : 1, "followers_count" : 1, "id" : 218404 }, "friends/followers" : 0 }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af83" }, "data" : { "source" : 40787, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af84" }, "data" : { "source" : 52142, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af85" }, "data" : { "source" : 537395, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af86" }, "data" : { "source" : 680114, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af87" }, "data" : { "source" : 422416, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af88" }, "data" : { "source" : 572048, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af89" }, "data" : { "source" : 587766, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af8a" }, "data" : { "source" : 417669, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af8b" }, "data" : { "source" : 195316, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af8c" }, "data" : { "source" : 158820, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af8d" }, "data" : { "source" : 326510, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af8e" }, "data" : { "source" : 154811, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af8f" }, "data" : { "source" : 451600, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af90" }, "data" : { "source" : 502607, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af91" }, "data" : { "source" : 59944, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af92" }, "data" : { "source" : 282053, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af93" }, "data" : { "source" : 296930, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af94" }, "data" : { "source" : 488780, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af95" }, "data" : { "source" : 248428, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af96" }, "data" : { "source" : 327208, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af97" }, "data" : { "source" : 251117, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af98" }, "data" : { "source" : 471627, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af99" }, "data" : { "source" : 726567, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af9a" }, "data" : { "source" : 354, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af9b" }, "data" : { "source" : 141063, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af9c" }, "data" : { "source" : 634233, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af9d" }, "data" : { "source" : 203133, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af9e" }, "data" : { "source" : 40599, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8af9f" }, "data" : { "source" : 77846, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afa0" }, "data" : { "source" : 174081, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afa1" }, "data" : { "source" : 70776, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afa2" }, "data" : { "source" : 76427, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afa3" }, "data" : { "source" : 280371, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afa4" }, "data" : { "source" : 282760, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afa5" }, "data" : { "source" : 80943, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afa6" }, "data" : { "source" : 49339, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afa7" }, "data" : { "source" : 488780, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afa8" }, "data" : { "source" : 283231, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afa9" }, "data" : { "source" : 731557, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afaa" }, "data" : { "source" : 218404, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afab" }, "data" : { "source" : 369026, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afac" }, "data" : { "source" : 73024, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afad" }, "data" : { "source" : 595720, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afae" }, "data" : { "source" : 56161, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afaf" }, "data" : { "source" : 486772, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afb0" }, "data" : { "source" : 111914, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afb1" }, "data" : { "source" : 345642, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afb2" }, "data" : { "source" : 765133, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afb3" }, "data" : { "source" : 759515, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afb4" }, "data" : { "source" : 715227, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afb5" }, "data" : { "source" : 802289, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afb6" }, "data" : { "source" : 22412, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afb7" }, "data" : { "source" : 488780, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afb8" }, "data" : { "source" : 395172, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afb9" }, "data" : { "source" : 94919, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afba" }, "data" : { "source" : 500734, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afbb" }, "data" : { "source" : 296375, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afbc" }, "data" : { "source" : 90016, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afbd" }, "data" : { "source" : 144088, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afbe" }, "data" : { "source" : 408588, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afbf" }, "data" : { "source" : 718482, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afc0" }, "data" : { "source" : 699820, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afc1" }, "data" : { "source" : 653160, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afc2" }, "data" : { "source" : 656408, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afc3" }, "data" : { "source" : 401052, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afc4" }, "data" : { "source" : 17981, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afc5" }, "data" : { "source" : 559105, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afc6" }, "data" : { "source" : 524875, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afc7" }, "data" : { "source" : 509502, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afc8" }, "data" : { "source" : 158820, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afc9" }, "data" : { "source" : 649290, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afca" }, "data" : { "source" : 432380, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afcb" }, "data" : { "source" : 646775, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afcc" }, "data" : { "source" : 447841, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afcd" }, "data" : { "source" : 67111, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afce" }, "data" : { "source" : 528487, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afcf" }, "data" : { "source" : 298788, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afd0" }, "data" : { "source" : 181100, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afd1" }, "data" : { "source" : 127160, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afd2" }, "data" : { "source" : 195195, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afd3" }, "data" : { "source" : 791058, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afd4" }, "data" : { "source" : 67765, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afd5" }, "data" : { "source" : 116561, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afd6" }, "data" : { "source" : 484274, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afd7" }, "data" : { "source" : 792448, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afd8" }, "data" : { "source" : 158633, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afd9" }, "data" : { "source" : 160301, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afda" }, "data" : { "source" : 130385, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afdb" }, "data" : { "source" : 521689, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afdc" }, "data" : { "source" : 568664, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afdd" }, "data" : { "source" : 142302, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afde" }, "data" : { "source" : 641948, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afdf" }, "data" : { "source" : 343761, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afe0" }, "data" : { "source" : 212364, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afe1" }, "data" : { "source" : 308393, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afe2" }, "data" : { "source" : 17311, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afe3" }, "data" : { "source" : 73024, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afe4" }, "data" : { "source" : 298788, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afe5" }, "data" : { "source" : 35819, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afe6" }, "data" : { "source" : 131865, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afe7" }, "data" : { "source" : 26866, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afe8" }, "data" : { "source" : 685180, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afe9" }, "data" : { "source" : 578110, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afea" }, "data" : { "source" : 733576, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afeb" }, "data" : { "source" : 38172, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afec" }, "data" : { "source" : 758783, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afed" }, "data" : { "source" : 407210, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afee" }, "data" : { "source" : 361789, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afef" }, "data" : { "source" : 540023, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8aff0" }, "data" : { "source" : 74689, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8aff1" }, "data" : { "source" : 129059, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8aff2" }, "data" : { "source" : 395172, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8aff3" }, "data" : { "source" : 225745, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8aff4" }, "data" : { "source" : 101742, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8aff5" }, "data" : { "source" : 390564, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8aff6" }, "data" : { "source" : 177561, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8aff7" }, "data" : { "source" : 494697, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8aff8" }, "data" : { "source" : 704689, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8aff9" }, "data" : { "source" : 340846, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8affa" }, "data" : { "source" : 742946, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8affb" }, "data" : { "source" : 104789, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8affc" }, "data" : { "source" : 310108, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8affd" }, "data" : { "source" : 551853, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8affe" }, "data" : { "source" : 554428, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8afff" }, "data" : { "source" : 41586, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b000" }, "data" : { "source" : 270301, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b001" }, "data" : { "source" : 496669, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b002" }, "data" : { "source" : 353606, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b003" }, "data" : { "source" : 359, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b004" }, "data" : { "source" : 430058, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b005" }, "data" : { "source" : 371062, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b006" }, "data" : { "source" : 114354, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b007" }, "data" : { "source" : 556911, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b008" }, "data" : { "source" : 685086, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b009" }, "data" : { "source" : 73024, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b00a" }, "data" : { "source" : 650251, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b00b" }, "data" : { "source" : 198003, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b00c" }, "data" : { "source" : 726567, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b00d" }, "data" : { "source" : 740356, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b00e" }, "data" : { "source" : 373010, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b00f" }, "data" : { "source" : 24392, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b010" }, "data" : { "source" : 71061, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b011" }, "data" : { "source" : 158820, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b012" }, "data" : { "source" : 263973, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b013" }, "data" : { "source" : 358753, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b014" }, "data" : { "source" : 794159, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b015" }, "data" : { "source" : 488780, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b016" }, "data" : { "source" : 7243, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b017" }, "data" : { "source" : 73024, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b018" }, "data" : { "source" : 255777, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b019" }, "data" : { "source" : 284932, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b01a" }, "data" : { "source" : 234145, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b01b" }, "data" : { "source" : 32964, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b01c" }, "data" : { "source" : 206647, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b01d" }, "data" : { "source" : 410688, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b01e" }, "data" : { "source" : 297970, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b01f" }, "data" : { "source" : 727482, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b020" }, "data" : { "source" : 696939, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b021" }, "data" : { "source" : 195811, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b022" }, "data" : { "source" : 338576, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b023" }, "data" : { "source" : 690170, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b024" }, "data" : { "source" : 386060, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b025" }, "data" : { "source" : 345484, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b026" }, "data" : { "source" : 603473, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b027" }, "data" : { "source" : 299595, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b028" }, "data" : { "source" : 315258, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b029" }, "data" : { "source" : 522225, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b02a" }, "data" : { "source" : 264931, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b02b" }, "data" : { "source" : 600993, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b02c" }, "data" : { "source" : 81342, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b02d" }, "data" : { "source" : 488780, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b02e" }, "data" : { "source" : 496678, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b02f" }, "data" : { "source" : 179010, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b030" }, "data" : { "source" : 623437, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b031" }, "data" : { "source" : 793278, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b032" }, "data" : { "source" : 707698, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b033" }, "data" : { "source" : 208314, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b034" }, "data" : { "source" : 588954, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b035" }, "data" : { "source" : 460007, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b036" }, "data" : { "source" : 285463, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b037" }, "data" : { "source" : 69186, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b038" }, "data" : { "source" : 67533, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b039" }, "data" : { "source" : 38172, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b03a" }, "data" : { "source" : 80449, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b03b" }, "data" : { "source" : 676634, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b03c" }, "data" : { "source" : 256330, "target" : 805284 }, "type" : "link" }
+{ "_id" : { "$oid" : "55af0ce3ec9e0d2b05c8b03d" }, "data" : { "source" : 158820, "target" : 805284 }, "type" : "link" }

@@ -1,0 +1,81 @@
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db83387b" }, "data" : { "datatype" : "MentionsNetwork" }, "type" : "metadata" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db83387c" }, "data" : { "creationdate" : 1427837939 }, "type" : "metadata" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db83387d" }, "data" : { "revision" : 0.2 }, "type" : "metadata" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db83387e" }, "data" : { "sourcetype" : "twitter" }, "type" : "metadata" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db83387f" }, "data" : { "description" : "mentions 3 hop" }, "type" : "metadata" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db833880" }, "data" : { "centralentityname" : "monica_nino" }, "type" : "metadata" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db833881" }, "data" : { "starttime" : 1394236800 }, "type" : "metadata" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db833882" }, "data" : { "endtime" : 1394323199 }, "type" : "metadata" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db833883" }, "data" : [ [ "node_default", {} ], [ "name", "()_with_int_labels" ], [ "edge_default", {} ] ], "type" : "graph" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db833884" }, "data" : false, "type" : "multigraph" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db833885" }, "data" : { "name" : "zoilacuartin", "id" : 0 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db833886" }, "data" : { "name" : "cnnee", "id" : 1 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db833887" }, "data" : { "name" : "shyriau", "id" : 2 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db833888" }, "data" : { "name" : "alfonsomarquina", "id" : 3 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db833889" }, "data" : { "name" : "davilacheo", "id" : 4 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db83388a" }, "data" : { "name" : "luisurdanetav", "id" : 5 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db83388b" }, "data" : { "name" : "vvperiodistas", "id" : 6 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db83388c" }, "data" : { "name" : "dexiudl", "id" : 7 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db83388d" }, "data" : { "name" : "genpenaloza", "id" : 8 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db83388e" }, "data" : { "name" : "monica_nino", "id" : 9 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db83388f" }, "data" : { "name" : "traffictachira", "id" : 10 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db833890" }, "data" : { "name" : "globovision", "id" : 11 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db833891" }, "data" : { "name" : "elnacionalweb", "id" : 12 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db833892" }, "data" : { "name" : "sebastianab", "id" : 13 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db833893" }, "data" : { "name" : "alejandrovivas", "id" : 14 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db833894" }, "data" : { "name" : "porlagoma", "id" : 15 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db833895" }, "data" : { "name" : "diox_777", "id" : 16 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db833896" }, "data" : { "name" : "vtvcanal8", "id" : 17 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db833897" }, "data" : { "name" : "efigueredop", "id" : 18 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db833898" }, "data" : { "name" : "camanpour", "id" : 19 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db833899" }, "data" : { "name" : "homaral", "id" : 20 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db83389a" }, "data" : { "name" : "marquesa190433", "id" : 21 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db83389b" }, "data" : { "name" : "luisdiaz14", "id" : 22 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db83389c" }, "data" : { "name" : "estrellaonline", "id" : 23 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db83389d" }, "data" : { "name" : "estebangerbasi", "id" : 24 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db83389e" }, "data" : { "name" : "elmundomovil", "id" : 25 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db83389f" }, "data" : { "name" : "reinaldoprofeta", "id" : 26 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338a0" }, "data" : { "name" : "prinsisesa", "id" : 27 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338a1" }, "data" : { "name" : "noticias24", "id" : 28 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338a2" }, "data" : { "name" : "zapata_zos", "id" : 29 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338a3" }, "data" : { "name" : "omar_main", "id" : 30 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338a4" }, "data" : { "name" : "informe21", "id" : 31 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338a5" }, "data" : { "name" : "otrovagomasreal", "id" : 32 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338a6" }, "data" : { "name" : "villegaspoljake", "id" : 33 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338a7" }, "data" : { "name" : "carloscoste1", "id" : 34 }, "type" : "node" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338a8" }, "data" : { "source" : 0, "target" : 25 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338a9" }, "data" : { "source" : 1, "target" : 21 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338aa" }, "data" : { "source" : 1, "target" : 7 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338ab" }, "data" : { "source" : 2, "target" : 25 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338ac" }, "data" : { "source" : 2, "target" : 26 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338ad" }, "data" : { "source" : 2, "target" : 11 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338ae" }, "data" : { "source" : 3, "target" : 5 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338af" }, "data" : { "source" : 4, "target" : 25 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338b0" }, "data" : { "source" : 5, "target" : 32 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338b1" }, "data" : { "source" : 5, "target" : 6 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338b2" }, "data" : { "source" : 5, "target" : 12 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338b3" }, "data" : { "source" : 5, "target" : 15 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338b4" }, "data" : { "source" : 5, "target" : 19 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338b5" }, "data" : { "source" : 5, "target" : 25 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338b6" }, "data" : { "source" : 5, "target" : 29 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338b7" }, "data" : { "source" : 7, "target" : 25 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338b8" }, "data" : { "source" : 8, "target" : 21 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338b9" }, "data" : { "source" : 9, "target" : 16 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338ba" }, "data" : { "source" : 9, "target" : 25 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338bb" }, "data" : { "source" : 10, "target" : 21 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338bc" }, "data" : { "source" : 11, "target" : 21 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338bd" }, "data" : { "source" : 13, "target" : 20 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338be" }, "data" : { "source" : 14, "target" : 21 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338bf" }, "data" : { "source" : 17, "target" : 21 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338c0" }, "data" : { "source" : 18, "target" : 21 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338c1" }, "data" : { "source" : 20, "target" : 24 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338c2" }, "data" : { "source" : 20, "target" : 25 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338c3" }, "data" : { "source" : 20, "target" : 31 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338c4" }, "data" : { "source" : 21, "target" : 34 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338c5" }, "data" : { "source" : 21, "target" : 33 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338c6" }, "data" : { "source" : 21, "target" : 23 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338c7" }, "data" : { "source" : 21, "target" : 25 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338c8" }, "data" : { "source" : 21, "target" : 27 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338c9" }, "data" : { "source" : 21, "target" : 28 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338ca" }, "data" : { "source" : 22, "target" : 25 }, "type" : "link" }
+{ "_id" : { "$oid" : "551b13f3ec9e0d02db8338cb" }, "data" : { "source" : 25, "target" : 30 }, "type" : "link" }
